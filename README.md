@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" imagesrc="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <img alt="Guru" height="300" image src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
     <h1 align="center">Alvin-Bot 2.O</h1>
   </a>
 </p>
