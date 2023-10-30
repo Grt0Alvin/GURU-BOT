@@ -26,7 +26,7 @@ let handler = async (m, { text, conn, usedPrefix, command }) => {
     if (!result) {
       const model = 'chatgpt';
       const senderNumber = m.sender.replace(/[^0-9]/g, ''); 
-      const session = `GURU_BOT_${senderNumber}`;
+      const session = `ALVJN-BOT_${senderNumber}`;
       const guru2 = `https://gurugpt.cyclic.app/gpt4?prompt=${prompt}&session=${session}&model=${model}`;
       
       response = await fetch(guru2);
