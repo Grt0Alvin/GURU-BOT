@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" image src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <img alt="Guru" height="300" image src="https://dragon.online-convert.com/download-file/030cb217-4585-4aeb-aef6-00b67e8d307d/67c8cd35-087a-49bd-93a4-0033c3dd77ce?qr=true">
     <h1 align="center">Alvin-Bot 2.O</h1>
   </a>
 </p>
